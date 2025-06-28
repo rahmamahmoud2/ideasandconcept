@@ -27,6 +27,7 @@ This project is a **User Profile Section** built using **Flutter**, applying **M
 
 The project follows **MVVM (Model - View - ViewModel)** pattern along with **Clean Architecture** principles:
 
+```bash
 lib/
 │
 ├── core/
@@ -49,8 +50,7 @@ lib/
 │ └── bindings/
 │
 └── main.dart
-
-
+```
 ---
 
 ## 🚀 Tech Stack
@@ -75,7 +75,7 @@ lib/
 ---
 
 📸 Screenshot:
-![Profile Screen](lib/assets/screenshots/Screenshot 2025-06-28 163831.png)
-![Edit Profile Screen](lib/assets/screenshots/Screenshot 2025-06-28 163848.png)
-![Orders Screen](lib/assets/screenshots/Screenshot 2025-06-28 163902.png)
+![Profile Screen](assets/screenshots/profile.png)
+![Edit Profile Screen](assets/screenshots/edit.png)
+![OrdersScreen](assets/screenshots/orders.png)
 
