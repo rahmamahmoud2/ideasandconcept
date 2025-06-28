@@ -26,7 +26,10 @@ This project is a **User Profile Section** built using **Flutter**, applying **M
 ## 🧠 Architecture: MVVM + Clean Architecture
 
 The project follows **MVVM (Model - View - ViewModel)** pattern along with **Clean Architecture** principles:
+<<<<<<< HEAD
 
+=======
+>>>>>>> 3ddc02242c99bf82d4135d97a70b533d4f112301
 ```bash
 lib/
 │
@@ -51,6 +54,10 @@ lib/
 │
 └── main.dart
 ```
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ddc02242c99bf82d4135d97a70b533d4f112301
 ---
 
 ## 🚀 Tech Stack
@@ -78,4 +85,8 @@ lib/
 ![Profile Screen](assets/screenshots/profile.png)
 ![Edit Profile Screen](assets/screenshots/edit.png)
 ![OrdersScreen](assets/screenshots/orders.png)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ddc02242c99bf82d4135d97a70b533d4f112301
 
