@@ -75,7 +75,8 @@ lib/
 ---
 
 📸 Screenshot:
-![ProfileScreen](lib/assets/screenshots/Screenshot 2025-06-28 163831.png)
-![EditProfileScreen](lib/assets/screenshots/Screenshot 2025-06-28 163848.png)
-![OrdersScreen](lib/assets/screenshots/Screenshot 2025-06-28 163902.png)
+![Profile Screen](assets/screenshots/profile.png)
+![Edit Profile Screen](assets/screenshots/edit.png)
+![OrdersScreen](assets/screenshots/orders.png)
+
 
